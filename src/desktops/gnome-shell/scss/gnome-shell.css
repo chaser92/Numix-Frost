@@ -20,6 +20,10 @@
 /* Text Styles */
 
 /* default text style */
+* {
+    font-family: Oxygen-Sans !important;
+}
+
 stage {
     font-family: Oxygen-Sans, Open Sans;
     font-size: 10pt;
